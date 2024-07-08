@@ -1,0 +1,51 @@
+body{
+    background-color: rgba(245, 245, 15, 0.733);
+}
+*{
+    padding: 0px;
+    margin: 0px ;
+    box-sizing:border-box
+}
+.header{
+    color: white;
+    background-color: grey;
+    padding:10px 70px;
+    text-align: center;
+}
+.description{
+    color: black;
+    background-color: white;
+    height: 70px;
+    margin-top: 40px;
+    margin-left: 170px;
+    margin-right: 170px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.ing{
+    color: black;
+    background-color: white;
+    height: 140px;
+    margin-top: 40px;
+    margin-left: 170px;
+    margin-right: 170px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.ins{
+    color: black;
+    background-color: white;
+    height: 140px;
+    margin-top: 40px;
+    margin-left: 170px;
+    margin-right: 170px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.ing ul{
+    padding-left: 40px;
+}
+.ins ol{
+    padding-left: 40px;
+}
